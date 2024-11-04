@@ -1,0 +1,5 @@
+tika
+spacy
+sentence-transformers
+chromadb
+

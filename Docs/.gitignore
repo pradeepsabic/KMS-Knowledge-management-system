@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Environment variables
+.env
+.myenv
+myenv/
+.venv/
+myenv/Lib/site-packages/torch/lib/torch_cpu.dll
+myenv/Lib/site-packages/torch/lib/dnnl.lib 
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Models
+*.h5
+*.pt
+*.onnx
+
+# Logs
+*.log
